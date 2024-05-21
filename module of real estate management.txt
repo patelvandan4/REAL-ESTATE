@@ -1,0 +1,10 @@
+                                                        Modules Of Real Estate 
+                                                         Management System
+
+          $ Buying A Home
+          $ Renting A Home
+          $ Photos Of Home
+          $ Sell/Rent Your Property
+          $ Buy Commericial Property
+          $ Lease Commericical Property
+                                                                 
